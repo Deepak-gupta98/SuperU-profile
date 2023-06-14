@@ -1,5 +1,5 @@
 # SuperU-profile
-This Repository is for SuperU. I have created Django End point to get, create and update SuperU profile.
+This Repository is for SuperU Project. I have created Django End point to get, create and update SuperU profile.
 Profile model contain 4 fields <ol> <li>name </li> <li> email </li> <li> bio </li> <li> profile_picture</li> </ol>
 
 How to run this program
